@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Question>The tree sends down roots from its branches to the soil is know as:</Question>
+    <Answers>
+      <Answer correct="true">Banyan</Answer>
+      <Answer correct="false">Oak</Answer>
+      <Answer correct="false">Pine</Answer>
+      <Answer correct="false">Palm</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Electric bulb filament is made of</Question>
+    <Answers>
+      <Answer correct="true">Tungsten</Answer>
+      <Answer correct="false">Lead</Answer>
+      <Answer correct="false">Aluminum</Answer>
+      <Answer correct="false">Copper</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Which of the following is not a primary colour</Question>
+    <Answers>
+      <Answer correct="true">Yellow</Answer>
+      <Answer correct="false">Blue</Answer>
+      <Answer correct="false">Green</Answer>
+      <Answer correct="false">Red</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>One horse power is equal to</Question>
+    <Answers>
+      <Answer correct="true">746 watts</Answer>
+      <Answer correct="false">756 watts</Answer>
+      <Answer correct="false">786 watts</Answer>
+      <Answer correct="false">726 watts</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>'Bar' is the unit of</Question>
+    <Answers>
+      <Answer correct="true">Atmospheric pressure</Answer>
+      <Answer correct="false">Temperature</Answer>
+      <Answer correct="false">Current</Answer>
+      <Answer correct="false">Temperature</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>One Joule is equal to</Question>
+    <Answers>
+      <Answer correct="true">10^7 ergs</Answer>
+      <Answer correct="false">10^11 ergs</Answer>
+      <Answer correct="false">10^3 ergs</Answer>
+      <Answer correct="false">10^5 ergs</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Kilowatt is a unit to measure:</Question>
+    <Answers>
+      <Answer correct="true">Power</Answer>
+      <Answer correct="false">Electricity</Answer>
+      <Answer correct="false">Current</Answer>
+      <Answer correct="false">Work</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Electric current is measure by:</Question>
+    <Answers>
+      <Answer correct="true">Ammeter</Answer>
+      <Answer correct="false">Anemometer</Answer>
+      <Answer correct="false">Voltmeter</Answer>
+      <Answer correct="false">Commutator</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Knot is a unit of speed of which of the following?</Question>
+    <Answers>
+      <Answer correct="true">Ship</Answer>
+      <Answer correct="false">Sound waves</Answer>
+      <Answer correct="false">Light waves</Answer>
+      <Answer correct="false">Aeroplane</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Mesons are found in</Question>
+    <Answers>
+      <Answer correct="true">Cosmic rays</Answer>
+      <Answer correct="false">Gamma rays</Answer>
+      <Answer correct="false">X-rays</Answer>
+      <Answer correct="false">Laser beam</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>The speed of light will be minimum while passing through</Question>
+    <Answers>
+      <Answer correct="true">glass</Answer>
+      <Answer correct="false">vaccum</Answer>
+      <Answer correct="false">air</Answer>
+      <Answer correct="false">water</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Product of Force and Velocity is called</Question>
+    <Answers>
+      <Answer correct="true">Power</Answer>
+      <Answer correct="false">Energy</Answer>
+      <Answer correct="false">Work</Answer>
+      <Answer correct="false">Power</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>What is the unit of Astronomical Distance ?</Question>
+    <Answers>
+      <Answer correct="true">Light year</Answer>
+      <Answer correct="false">Weber</Answer>
+      <Answer correct="false">Angstrom</Answer>
+      <Answer correct="false">Lux</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Which of the following is the first calculating device?</Question>
+    <Answers>
+      <Answer correct="true">Abacus</Answer>
+      <Answer correct="false">Calculator</Answer>
+      <Answer correct="false">Turing Machine</Answer>
+      <Answer correct="false">Pascaline</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Who invented mechanical calculator called Pascaline?</Question>
+    <Answers>
+      <Answer correct="true">Blaise Pascal</Answer>
+      <Answer correct="false">Charles Babbage</Answer>
+      <Answer correct="false">Lee De Forest</Answer>
+      <Answer correct="false">Alan Turing</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Oncology is the study of:</Question>
+    <Answers>
+      <Answer correct="true">Cancer</Answer>
+      <Answer correct="false">Mammals</Answer>
+      <Answer correct="false">Soil</Answer>
+      <Answer correct="false">Birds</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Ornithology is the:</Question>
+    <Answers>
+      <Answer correct="true">Study of birds</Answer>
+      <Answer correct="false">Study of bones</Answer>
+      <Answer correct="false">tudy of noise</Answer>
+      <Answer correct="false">Study of birds</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>The energy of food is measured in:</Question>
+    <Answers>
+      <Answer correct="true">Calories</Answer>
+      <Answer correct="false">Celsius</Answer>
+      <Answer correct="false">Kelvin</Answer>
+      <Answer correct="false">None of the above</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Fathometer is used to measure:</Question>
+    <Answers>
+      <Answer correct="true">Ocean depth</Answer>
+      <Answer correct="false">Rainfall</Answer>
+      <Answer correct="false">Sound intensity</Answer>
+      <Answer correct="false">Earthquakes</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Who had invented zero?</Question>
+    <Answers>
+      <Answer correct="true">Indians</Answer>
+      <Answer correct="false">Egyptians</Answer>
+      <Answer correct="false">Greeks</Answer>
+      <Answer correct="false">None of the above</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Blaise Pascal is associated with:</Question>
+    <Answers>
+      <Answer correct="true">Calculator</Answer>
+      <Answer correct="false">Bicycle</Answer>
+      <Answer correct="false">Speed</Answer>
+      <Answer correct="false">Electricity</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Who discovered that plants have life?</Question>
+    <Answers>
+      <Answer correct="true">J.C. Bose</Answer>
+      <Answer correct="false">Louis Pasteur</Answer>
+      <Answer correct="false">Edward Jenner</Answer>
+      <Answer correct="false">Darwin</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>The telephone was invented by:</Question>
+    <Answers>
+      <Answer correct="true">Alexander Graham Bell</Answer>
+      <Answer correct="false">John Napier</Answer>
+      <Answer correct="false">Robert Hook</Answer>
+      <Answer correct="false">Einstein</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Who had discovered oxygen?</Question>
+    <Answers>
+      <Answer correct="true">Priestly</Answer>
+      <Answer correct="false">Galileo</Answer>
+      <Answer correct="false">William Harvey</Answer>
+      <Answer correct="false">Rutherford</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Soda water contains</Question>
+    <Answers>
+      <Answer correct="true">carbon dioxide</Answer>
+      <Answer correct="false">nitrous acid</Answer>
+      <Answer correct="false">ulphuric acid</Answer>
+      <Answer correct="false">carbonic acid</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>The hardest substance available on earth is</Question>
+    <Answers>
+      <Answer correct="true">Diamond</Answer>
+      <Answer correct="false">Platinum</Answer>
+      <Answer correct="false">Gold</Answer>
+      <Answer correct="false">Iron</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>The average salinity of sea water is</Question>
+    <Answers>
+      <Answer correct="true">3.5%</Answer>
+      <Answer correct="false">2.5%</Answer>
+      <Answer correct="false">2%</Answer>
+      <Answer correct="false">3%</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+</data-set>

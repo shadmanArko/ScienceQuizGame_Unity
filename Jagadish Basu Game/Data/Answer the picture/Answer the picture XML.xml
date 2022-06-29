@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Question>Jagdish Chandra Born in</Question>
+    <Image>Image01</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Mymensingh</Answer>
+      <Answer correct="false">Calcutta</Answer>
+      <Answer correct="false">Bihar</Answer>
+      <Answer correct="false">Udisha</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Bose’s experiments on the quasi-optical properties of very short radio waves in</Question>
+    <Image>Image02</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">1895</Answer>
+      <Answer correct="false">1896</Answer>
+      <Answer correct="false">1890</Answer>
+      <Answer correct="false">1892</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Bose earning a degree from the University of Cambridge in</Question>
+    <Image>Image03</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">1884</Answer>
+      <Answer correct="false">1885</Answer>
+      <Answer correct="false">1888</Answer>
+      <Answer correct="false">1882</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Bose served as professor of</Question>
+    <Image>Image04</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">physical science</Answer>
+      <Answer correct="false">chemistry</Answer>
+      <Answer correct="false">architect</Answer>
+      <Answer correct="false">urban science</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Bose Research Institute in</Question>
+    <Image>Image05</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Kolkata</Answer>
+      <Answer correct="false">England</Answer>
+      <Answer correct="false">Mumbai</Answer>
+      <Answer correct="false">Bangladesh</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Science that  interactions between the fundamental constituents of the observable universe</Question>
+    <Image>Image07</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Physics</Answer>
+      <Answer correct="false">Math</Answer>
+      <Answer correct="false">Chemistry</Answer>
+      <Answer correct="false">Architect</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Bose work on microwave radiation from 1894 to</Question>
+    <Image>Image08</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">1899</Answer>
+      <Answer correct="false">1885</Answer>
+      <Answer correct="false">1890</Answer>
+      <Answer correct="false">1891</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Bose complete the scientific understanding of electro-magnetic radiation begun under</Question>
+    <Image>Image09</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Clerk Maxwell</Answer>
+      <Answer correct="false">Glen Maxwell</Answer>
+      <Answer correct="false">Sam Maxwell</Answer>
+      <Answer correct="false">Taylor Maxwell</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Name the scientist who had discovered that some molecules have mirror images?</Question>
+    <Image>Image10</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Louis Pasteur</Answer>
+      <Answer correct="false">Lord Kelvin</Answer>
+      <Answer correct="false">Henry Moseley</Answer>
+      <Answer correct="false">Robert Hooke</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Bose wanted to take the Civil Services examination in</Question>
+    <Image>Image11</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">England</Answer>
+      <Answer correct="false">Calcutta</Answer>
+      <Answer correct="false">Dhaka</Answer>
+      <Answer correct="false">Mumbai</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>A famous experiment conducted by Bose at the Royal Society of London in</Question>
+    <Image>Image12</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">1901</Answer>
+      <Answer correct="false">1990</Answer>
+      <Answer correct="false">1995</Answer>
+      <Answer correct="false">1995</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Jagadish ChandraBose had invented the</Question>
+    <Image>Image13</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Telegraphy</Answer>
+      <Answer correct="false">Telephone</Answer>
+      <Answer correct="false">Electricity</Answer>
+      <Answer correct="false">Engine</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>The Bose Institute in</Question>
+    <Image>Image14</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Kolkata</Answer>
+      <Answer correct="false">Mumbai</Answer>
+      <Answer correct="false">Dhaka</Answer>
+      <Answer correct="false">England</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Bangladesh Communication Satellite Company Limited was established on 15 August</Question>
+    <Image>Image15</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">2017</Answer>
+      <Answer correct="false">2018</Answer>
+      <Answer correct="false">2015</Answer>
+      <Answer correct="false">2019</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Bangladesh Communication Satellite had been authorized a capital of</Question>
+    <Image>Image16</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">50 billion BDT</Answer>
+      <Answer correct="false">55 billion BDT</Answer>
+      <Answer correct="false">45 billion BDT</Answer>
+      <Answer correct="false">52 billion BDT</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>What does newton measure?</Question>
+    <Image>Image17</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Force</Answer>
+      <Answer correct="false">Electric charge</Answer>
+      <Answer correct="false">Length</Answer>
+      <Answer correct="false">Power</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Electric bulb filament is made of</Question>
+    <Image>Image18</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Tungsten </Answer>
+      <Answer correct="false">Copper</Answer>
+      <Answer correct="false">Lead</Answer>
+      <Answer correct="false">Aluminium</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Which of the following is used in Pencils?</Question>
+    <Image>Image19</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Graphite</Answer>
+      <Answer correct="false">Silicon</Answer>
+      <Answer correct="false">Charcoal</Answer>
+      <Answer correct="false">Phosphorous</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Chemical formula for water is</Question>
+    <Image>Image20</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">H2O</Answer>
+      <Answer correct="false">CaSiO3</Answer>
+      <Answer correct="false">Al2O3</Answer>
+      <Answer correct="false">NaA1O2 </Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Heavy Water is</Question>
+    <Image>Image21</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Deuterium oxide</Answer>
+      <Answer correct="false">PH7</Answer>
+      <Answer correct="false">Rain water</Answer>
+      <Answer correct="false">Tritium oxide</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>16</Time>
+  </record>
+  <record>
+    <Question>Carbon, Diamond and Graphite are together called</Question>
+    <Image>Image22</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Allotrope</Answer>
+      <Answer correct="false">Isomers</Answer>
+      <Answer correct="false">Isomorphs</Answer>
+      <Answer correct="false">Isotopes</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>16</Time>
+  </record>
+  <record>
+    <Question>Soda Water containes</Question>
+    <Image>Image23</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Carbon dioxide</Answer>
+      <Answer correct="false">Carbonic acid</Answer>
+      <Answer correct="false">Nitrous acid</Answer>
+      <Answer correct="false">Sulphuric acid</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>16</Time>
+  </record>
+  <record>
+    <Question>What is laughing gas?</Question>
+    <Image>Image24</Image>
+    <Video />
+    <Answers>
+      <Answer correct="true">Nitrous Oxide</Answer>
+      <Answer correct="false">Carbon monoxide</Answer>
+      <Answer correct="false">Sulphur dioxide</Answer>
+      <Answer correct="false">Hydrogen peroxide</Answer>
+    </Answers>
+    <Bonus>0</Bonus>
+    <Time>16</Time>
+  </record>
+</data-set>
